@@ -10,7 +10,7 @@ namespace KutuphaneOtomasyonuV2.Classes
     class SqlSunucu
     {
         //SQL Server Bağlantı Ayarları (Mevcut Sunucu Microsoft SQL Server 2019)
-        //SQL Test
+        //SQL Test 123
         //Sunucu Bağlantısı
         public static string SQLSunucuStr = "Data Source = DESKTOP-HR19469\\PROJESQL; Initial Catalog = Kutuphane; Integrated Security = True";
     }
