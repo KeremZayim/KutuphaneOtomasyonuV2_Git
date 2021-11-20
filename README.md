@@ -5,6 +5,7 @@ Yeni Arayüzlü Kütüphane Arayüzü (C#) Microsoft SQL 2019 Server
 <h2>Gereksinimler</h2>
 <p>Microsoft 2019 SQL Server İle Çalışmaktadır.
 <p>.NET Framework 4.7.2
+<p>Veritabanı Oluşturmadan Çalışmaz!
 <h2>Form Arayüzleri</h2>
 <p> Giriş Arayüzü
   
